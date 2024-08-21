@@ -31,7 +31,7 @@ const Hero = () => {
                 className=" rounded-full flex justify-center md:place-items-end"
             >
                 <img
-                    src="src\assets\hero.jpg"
+                    src="src/assets/hero.jpg"
                     alt="My_image"
                     className=" h-[300px] md:h-[300px] lg:h-[350px] m-5 rounded-3xl "
                 />
