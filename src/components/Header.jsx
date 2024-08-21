@@ -17,7 +17,7 @@ const Header = () => {
     return (
         <header className="">
             <div className="font-mono p-5 my-5 flex justify-between fixed -top-5 left-0 right-0 z-50 bg-purple-400">
-                <h1 className=" p-2 "><img src="src/assets/logo.png" alt="" className=" w-[120px] md:w-[180px] " /></h1>
+                <h1 className=" p-2 "><img src="/logo.png" alt="" className=" w-[120px] md:w-[180px] " /></h1>
                 <nav className="flex items-center">
                     <a href="#about" className="mr-2 p-1 hover:font-bold hover:text-white hover:scale-110 transition-transform duration-300 hidden md:block">About</a>
                     <a href="#skills" className="mr-2 p-1 hover:font-bold hover:text-white hover:scale-110 transition-transform duration-300 hidden md:block">Skills</a>
