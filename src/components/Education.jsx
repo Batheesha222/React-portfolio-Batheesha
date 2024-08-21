@@ -11,7 +11,7 @@ const Education = () => {
                     whileInView={{ opacity: 1, x: 0 }}
                     initial={{ opacity: 0, x: -100 }}
                     transition={{duration:1, delay:.5}} className="flex justify-center p-10">
-                    <img src="src\assets\education.png" alt="" className='h-[200px] lg:h-[300px]' />
+                    <img src="src\assets\education.png" alt="Education" className='h-[200px] lg:h-[300px]' />
                 </motion.div>
                 <div className="education ">
                     <motion.div whileInView={{ opacity: 1, x: 0 }}

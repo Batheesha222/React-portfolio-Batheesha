@@ -19,7 +19,7 @@ const Projects = () => {
                             <p className='flex gap-3 py-3'><a href="https://github.com/Batheesha222/Blog-Hive" className='bg-purple-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white hover:bg-purple-600 hover:scale-110 transition-transform duration-300'>FrontEnd</a> <a href="https://github.com/Batheesha222/BLOG-REST-API" className='bg-purple-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white hover:bg-purple-600 hover:scale-110 transition-transform duration-300'>BackEnd</a></p>
                         </div>
                         <div className="flex justify-center ">
-                            <img src="src\assets\blog-hive.jpg" alt="" className='w-[200px] lg:w-[300px]' />
+                            <img src="src\assets\blog-hive.jpg" alt="project1" className='w-[200px] lg:w-[300px]' />
                         </div>
                     </div>
                 </motion.div>
@@ -35,7 +35,7 @@ const Projects = () => {
                             <p className='flex gap-3 py-3'><a href="https://github.com/Batheesha222/todo-app" className='bg-purple-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white hover:bg-purple-600 hover:scale-110 transition-transform duration-300'>Repo</a></p>
                         </div>
                         <div className="flex justify-center">
-                            <img src="src\assets\todo.jpg" alt="" className='w-[200px] lg:w-[300px]' />
+                            <img src="src\assets\todo.jpg" alt="project2" className='w-[200px] lg:w-[300px]' />
                         </div>
                     </div>
                 </motion.div>
@@ -51,7 +51,7 @@ const Projects = () => {
                             <p className='flex gap-3 py-3'><a href="https://github.com/Batheesha222/fullstack-frontend" className='bg-purple-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white hover:bg-purple-600 hover:scale-110 transition-transform duration-300'>FrontEnd</a> <a href="https://github.com/Batheesha222/fullstack-backend" className='bg-purple-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 hover:text-white hover:bg-purple-600 hover:scale-110 transition-transform duration-300'>BackEnd</a></p>
                         </div>
                         <div className="flex justify-center items-center">
-                            <img src="src\assets\user_management_system.jpg" alt="" className='w-[200px] lg:w-[300px]' />
+                            <img src="src\assets\user_management_system.jpg" alt="project3" className='w-[200px] lg:w-[300px]' />
                         </div>
                     </div>
                 </motion.div>
